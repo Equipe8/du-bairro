@@ -6,7 +6,7 @@ Atividade desenvolvida em grupo, nesse projeto foi desenvolvido um site de resta
 
 - <h3><a href="https://github.com/LucasAlvesM">Lucas Alves</a></h3>
 - <h3><a href="https://github.com/LucasGaldinno">Lucas Galdino</a></h3>
-- <h3>Ryan Marinho</h3>
+- <h3><a href="https://github.com/ryandcmv">Ryan Marinho</a></h3> 
 - <h3><a href="https://github.com/Tiagogtr">Tiago Soares</a></h3>
 - <h3><a href="https://github.com/VitorGeovani">Vitor Geovani</a></h3>
 
