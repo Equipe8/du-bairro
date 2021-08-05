@@ -4,11 +4,11 @@ Atividade desenvolvida em grupo, nesse projeto foi desenvolvido um site de resta
 
 <h2>Integrantes do grupo:pushpin:</h2>
 
-- Lucas Alves
-- Lucas Galdino
-- Ryan
-- Tiago
-- Vitor Geovani
+- <a href="https://github.com/LucasAlvesM">Lucas Alves</a>
+- <a href="https://github.com/LucasGaldinno">Lucas Galdino</a>
+- Ryan Marinho
+- <a href="https://github.com/Tiagogtr">Tiago Soares</a>
+- <a href="https://github.com/VitorGeovani">Vitor Geovani</a>
 
 <h2>Funções de cada integrante do grupo:clipboard:</h2>
 
