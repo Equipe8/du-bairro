@@ -21,3 +21,7 @@ Atividade desenvolvida em grupo, nesse projeto foi desenvolvido um site de resta
 <h2>Ferramenta utilizada para o desenvolvimento do projeto:toolbox:</h2>
 Esse projeto foi desenvolvido com o visual studio code versão: November 2020 (version 1.52)<br>
 <a href="https://code.visualstudio.com/">Download</a>
+
+<h2>Conclusão do projeto:dart:</h2>
+
+<img src="https://raw.githubusercontent.com/LucasGaldinno/Du-Bairro/main/Screenshots/Home.png">
