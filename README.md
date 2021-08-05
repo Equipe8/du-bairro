@@ -14,8 +14,8 @@ Atividade desenvolvida em grupo, nesse projeto foi desenvolvido um site de resta
 
  - Lucas Galdino ----> Criar a página Home :heavy_check_mark:
  - Lucas Alves ----> Criar a página Cardapio :heavy_check_mark:
- - Ryan ----> Criar a página Bebidas :heavy_check_mark:
- - Tiago ----> Criar a página Contato :heavy_check_mark:
+ - Ryan Marinho ----> Criar a página Bebidas :heavy_check_mark:
+ - Tiago Soares ----> Criar a página Contato :heavy_check_mark:
  - Vitor Geovani ----> Criar a página Sobremesas :heavy_check_mark:
 
 <h2>Ferramenta utilizada para o desenvolvimento do projeto:toolbox:</h2>
