@@ -13,7 +13,7 @@ Atividade desenvolvida em grupo, nesse projeto foi desenvolvido um site de resta
 <h2>Funções de cada integrante do grupo:clipboard:</h2>
 
  - Lucas Galdino ----> Criar a página Home :heavy_check_mark:
- - Lucas Alves ----> Criar a página Cardapio :heavy_check_mark:
+ - Lucas Alves ----> Criar a página Cardápio :heavy_check_mark:
  - Ryan Marinho ----> Criar a página Bebidas :heavy_check_mark:
  - Tiago Soares ----> Criar a página Contato :heavy_check_mark:
  - Vitor Geovani ----> Criar a página Sobremesas :heavy_check_mark:
